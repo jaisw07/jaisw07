@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I'm a comp sci student with a love for coding, pro
 - 🔭 I’m currently working on the kilo text editor
 - 🌱 I’m currently learning C++, Java and Python
 
+[![An image of @jaisw07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaisw07)](https://holopin.io/@jaisw07)
+
 ## Get In Touch
 
 Feel free to connect with me:
