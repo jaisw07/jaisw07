@@ -1,6 +1,6 @@
 # Hey there! I'm Shrey Jaiswal
 
-I'm a BTech CSE undergraduate student with a passion for development and problem solving.
+I am a BTech CSE undergraduate with a proven track record in leadership, development, and problem-solving. As Vice Chairperson of the ACM BMU Student Chapter and a Student Ambassador at BML Munjal University, I have successfully led initiatives to foster collaborative learning and student engagement. Proficient in C++, Java, Python, JavaScript, and tools like MongoDB and GitHub, I am actively working on projects in Machine Learning, Web, and App Development. Combining technical expertise with a passion for innovation, I aim to contribute to impactful, real-world solutions in the tech industry.
 
 ## 🚀 Skills & Projects:
 
