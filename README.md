@@ -1,6 +1,20 @@
 # Hey there! I'm Shrey Jaiswal
 
-I'm a BTech CSE undergraduate student with a passion for development and problem solving.<br><br>🚀 Skills & Projects:<br><br>> Web Development Proficient:<br>     <br>     - Beat.it: A user-friendly music player that lets you enjoy your favorite tracks seamlessly. This project is a full-stack web application designed for music lovers.<br>     <br>     - Discover India Interactive: An educational web tool offering a detailed political map of India, now enhanced with district-wise mapping.<br><br>> AI & Chatbots:<br>    <br>     - BMU Buddy: An AI-powered chatbot and PDF summarizer designed to provide relevant query results using dynamic context provisioning. This tool leverages state-of-the-art natural language processing techniques to deliver accurate and concise information, enhancing user experience and productivity.<br><br>📚 Currently Learning:<br><br>> App Development: Exploring the world of mobile apps.<br><br>> Machine Learning: Developing a sentiment analysis tool in Python to get hands-on experience with ML.<br><br>
+I'm a BTech CSE undergraduate student with a passion for development and problem solving.
+
+## 🚀 Skills & Projects:
+
+### Web Development
+- <a href=https://github.com/jaisw07/Beat.it>Beat.it</a>: A user-friendly music player that lets you enjoy your favorite tracks seamlessly. This project is a full-stack web application designed for music lovers.
+- <a href=https://github.com/jaisw07/Discover-India-Interactive>Discover India Interactive</a>: An educational web tool offering a detailed political map of India, now enhanced with district-wise mapping.
+### AI
+- <a href=https://github.com/jaisw07/BMU-Buddy>BMU Buddy</a>: An AI-powered chatbot and PDF summarizer designed to provide relevant query results using dynamic context provisioning. This tool leverages state-of-the-art natural language processing techniques to deliver accurate and concise information, enhancing user experience and productivity.
+### Software Development
+- <a href=https://github.com/jaisw07/text_editor>Text Editor</a>: A lightweight and user-friendly text editing tool designed to provide a seamless and efficient writing experience.
+
+## 📚 Currently Learning:
+- App Development: Exploring the world of mobile apps.
+- Machine Learning: Developing a sentiment analysis tool in Python to get hands-on experience with ML.
 
 [![An image of @jaisw07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaisw07)](https://holopin.io/@jaisw07)
 
