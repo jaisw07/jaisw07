@@ -8,7 +8,7 @@ I am a BTech CSE undergraduate with a proven track record in leadership, develop
 - <a href=https://github.com/jaisw07/Beat.it>Beat.it</a>: A user-friendly music player that lets you enjoy your favorite tracks seamlessly. This project is a full-stack web application designed for music lovers.
 - <a href=https://github.com/jaisw07/Discover-India-Interactive>Discover India Interactive</a>: An educational web tool offering a detailed political map of India, now enhanced with district-wise mapping.
 ### AI
-- <a href=https://github.com/jaisw07/BMU-Buddy>BMU Buddy</a>: An AI-powered chatbot and PDF summarizer designed to provide relevant query results using dynamic context provisioning. This tool leverages state-of-the-art natural language processing techniques to deliver accurate and concise information, enhancing user experience and productivity.
+- <a href=https://github.com/jaisw07/AskMyData>AskMyData</a>: An AI-powered chatbot that allows users to interact with their datasets conversationally. It supports multiple file formats, including `.txt`, `.json`, `.csv`, and `.xlsx`, and dynamically processes data to provide relevant and insightful responses. Built with Streamlit and GROQ's API, it delivers a seamless and intuitive way to extract insights from your data.
 ### Software Development
 - <a href=https://github.com/jaisw07/text_editor>Text Editor</a>: A lightweight and user-friendly text editing tool designed to provide a seamless and efficient writing experience.
 
