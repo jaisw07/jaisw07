@@ -9,8 +9,6 @@ I am a BTech CSE undergraduate with a proven track record in leadership, develop
 - <a href=https://github.com/jaisw07/Discover-India-Interactive>Discover India Interactive</a>: An educational web tool offering a detailed political map of India, now enhanced with district-wise mapping.
 ### AI
 - <a href=https://github.com/jaisw07/AskMyData>AskMyData</a>: An AI-powered chatbot that allows users to interact with their datasets conversationally. It supports multiple file formats, including `.txt`, `.json`, `.csv`, and `.xlsx`, and dynamically processes data to provide relevant and insightful responses. Built with Streamlit and GROQ's API, it delivers a seamless and intuitive way to extract insights from your data.
-### Software Development
-- <a href=https://github.com/jaisw07/text_editor>Text Editor</a>: A lightweight and user-friendly text editing tool designed to provide a seamless and efficient writing experience.
 
 ## 📚 Currently Learning:
 - App Development: Exploring the world of mobile apps.
